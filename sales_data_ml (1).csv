@@ -1,0 +1,1501 @@
+Product_Category,Region,Marketing_Spend,Discount_Percentage,Previous_Purchases,Sales_Amount
+Books,North,1891,26,3,8317
+Home Appliances,East,3463,29,14,7651
+Home Appliances,North,747,29,0,5055
+Books,South,1429,45,13,2880
+Home Appliances,South,3369,10,6,2651
+Sports Equipment,North,2215,11,15,7743
+Books,West,1866,13,1,8804
+Electronics,North,1159,16,8,657
+Sports Equipment,South,4530,32,6,2167
+Electronics,West,804,19,5,5243
+Sports Equipment,South,1779,7,8,3643
+Sports Equipment,East,879,1,3,8211
+Electronics,East,1960,28,7,1375
+Sports Equipment,North,2797,27,17,6940
+Home Appliances,East,4462,30,4,6333
+Electronics,North,519,2,9,6456
+Books,South,2348,34,1,8495
+Clothing,North,1206,12,4,7597
+Sports Equipment,South,4906,43,1,5592
+Sports Equipment,West,2127,7,6,5346
+Clothing,East,3005,34,8,4780
+Books,North,770,35,8,5018
+Clothing,East,4961,29,16,702
+Clothing,South,4080,45,11,5388
+Electronics,North,889,42,11,4064
+Clothing,East,1681,0,1,9956
+Home Appliances,West,3960,46,17,7751
+Books,South,795,10,11,4561
+Clothing,South,3795,44,0,238
+Sports Equipment,North,1895,32,9,6553
+Sports Equipment,East,1851,1,9,2367
+Clothing,East,1788,44,9,8778
+Home Appliances,North,944,20,13,4694
+Home Appliances,West,3867,40,4,8751
+Books,South,3514,42,12,5011
+Home Appliances,West,2972,5,3,7452
+Books,East,1471,41,19,7151
+Home Appliances,East,2582,33,8,7280
+Electronics,East,1426,24,8,2512
+Sports Equipment,North,2496,8,9,6600
+Books,South,4462,23,3,3018
+Books,West,2694,36,7,3130
+Sports Equipment,South,3982,48,11,8115
+Electronics,East,1603,3,19,6950
+Home Appliances,East,4113,28,9,3907
+Clothing,West,559,30,9,9986
+Electronics,North,3558,22,8,7235
+Electronics,North,2938,39,1,8215
+Sports Equipment,North,2495,10,15,1511
+Sports Equipment,West,2879,18,11,8957
+Books,West,1519,29,18,8124
+Clothing,South,816,41,7,2291
+Home Appliances,East,3625,38,3,7039
+Sports Equipment,North,3040,25,19,3736
+Home Appliances,East,3699,27,9,4217
+Home Appliances,East,2444,20,6,1926
+Clothing,North,1599,15,3,8146
+Sports Equipment,West,3662,14,8,112
+Home Appliances,East,1335,10,9,340
+Sports Equipment,West,3367,35,17,9353
+Books,West,2699,15,9,3658
+Books,South,1793,7,14,212
+Sports Equipment,East,1924,14,1,5455
+Clothing,South,2409,18,3,4544
+Clothing,North,903,26,9,8213
+Home Appliances,South,758,12,2,3530
+Books,West,3014,22,11,4555
+Sports Equipment,West,668,16,10,3230
+Sports Equipment,West,1647,43,15,1001
+Clothing,East,1518,16,5,3666
+Sports Equipment,East,4049,34,11,3201
+Sports Equipment,West,3885,1,8,3612
+Books,South,3557,40,1,5450
+Sports Equipment,North,1748,32,6,4326
+Books,West,1820,19,19,8666
+Clothing,East,3784,36,4,4750
+Sports Equipment,East,4869,48,10,5434
+Electronics,West,1656,13,18,3610
+Clothing,West,3707,19,9,6959
+Books,East,607,26,1,6133
+Books,South,3809,17,2,6435
+Books,North,2502,36,10,6417
+Clothing,South,4576,46,3,1098
+Sports Equipment,East,4979,7,14,7594
+Electronics,South,2629,0,3,3249
+Clothing,East,2940,31,0,5690
+Books,West,3148,6,9,9929
+Sports Equipment,East,4163,29,10,8735
+Sports Equipment,East,1054,45,2,6244
+Home Appliances,South,1771,0,4,7050
+Sports Equipment,North,3238,1,8,2131
+Clothing,North,1789,22,1,841
+Sports Equipment,South,4788,37,19,5460
+Home Appliances,East,4796,46,0,2751
+Clothing,East,3491,6,13,9055
+Clothing,West,3635,42,5,9772
+Sports Equipment,South,1134,20,14,4074
+Clothing,North,699,49,8,6519
+Clothing,South,2156,4,13,1629
+Electronics,North,4045,8,15,3611
+Home Appliances,West,1343,13,0,4771
+Clothing,West,2930,44,5,4043
+Books,East,4575,12,10,2592
+Sports Equipment,South,4202,20,14,4218
+Electronics,East,1405,16,17,5653
+Home Appliances,North,1556,29,19,8190
+Clothing,South,4070,23,17,8028
+Sports Equipment,East,3971,17,1,4494
+Sports Equipment,North,2183,11,11,7060
+Home Appliances,East,705,17,6,6409
+Books,West,3213,10,1,2614
+Home Appliances,West,2268,12,13,680
+Books,West,4855,27,1,6816
+Clothing,East,3406,11,9,1648
+Home Appliances,West,3384,21,13,440
+Books,South,2466,38,18,2020
+Clothing,West,995,21,18,230
+Home Appliances,West,2235,29,18,674
+Electronics,West,4877,23,13,8494
+Home Appliances,West,1131,23,14,570
+Electronics,East,840,22,17,1729
+Home Appliances,East,4555,23,11,6803
+Electronics,West,4841,0,16,9879
+Books,East,848,41,3,3168
+Clothing,South,573,25,0,6055
+Home Appliances,East,1617,24,19,8441
+Electronics,West,756,4,17,9141
+Clothing,South,3720,36,7,7070
+Clothing,West,3882,17,0,1308
+Sports Equipment,South,720,32,14,9889
+Sports Equipment,North,992,29,4,8188
+Books,East,4284,15,18,8008
+Books,North,1555,24,16,5551
+Sports Equipment,West,4027,43,1,8756
+Books,West,1815,1,6,6670
+Home Appliances,East,2050,30,12,7044
+Electronics,North,1107,30,7,9682
+Electronics,West,978,29,15,9019
+Electronics,North,2358,17,5,2431
+Books,North,864,12,8,1711
+Home Appliances,East,2580,40,8,6456
+Home Appliances,North,1997,31,5,9450
+Books,East,1359,2,10,2033
+Home Appliances,East,3035,0,13,6856
+Sports Equipment,South,604,13,8,8445
+Clothing,North,963,10,14,6011
+Home Appliances,North,2109,35,18,5443
+Electronics,West,1307,41,8,1611
+Electronics,West,1630,23,2,1190
+Sports Equipment,West,4049,23,16,1735
+Sports Equipment,West,1498,39,1,2564
+Sports Equipment,North,2647,44,8,1687
+Clothing,West,1071,49,6,6289
+Books,West,838,49,1,610
+Home Appliances,West,1737,5,0,275
+Sports Equipment,West,2678,19,12,110
+Clothing,South,1136,40,1,9658
+Electronics,East,1865,15,0,3729
+Clothing,North,2297,42,6,8164
+Books,South,2267,47,5,2749
+Sports Equipment,South,4790,4,13,5644
+Sports Equipment,South,1697,5,3,983
+Clothing,West,3916,46,17,1637
+Books,North,4071,4,8,447
+Books,East,1540,18,19,3206
+Sports Equipment,North,4769,21,15,8609
+Sports Equipment,North,3646,3,12,7047
+Home Appliances,South,2489,15,18,3079
+Clothing,West,4980,36,3,4349
+Books,West,3925,4,3,815
+Clothing,South,1709,4,2,8599
+Sports Equipment,North,2251,45,7,3898
+Sports Equipment,North,3591,25,6,8940
+Sports Equipment,South,1221,43,6,8129
+Electronics,North,4270,45,6,8494
+Books,East,3710,33,12,5751
+Sports Equipment,East,1502,8,6,2334
+Books,South,3934,18,1,7019
+Sports Equipment,East,1717,25,16,7433
+Sports Equipment,South,1835,12,1,211
+Books,West,3225,7,8,2135
+Sports Equipment,South,672,46,14,8052
+Home Appliances,North,3652,38,9,7374
+Home Appliances,South,1170,27,7,2630
+Sports Equipment,South,3568,18,5,4683
+Clothing,West,942,49,3,715
+Sports Equipment,West,1584,10,15,4579
+Home Appliances,West,2171,20,8,119
+Electronics,South,1685,20,18,1340
+Books,West,983,30,16,789
+Books,North,1560,24,0,1242
+Electronics,East,2406,2,15,8768
+Home Appliances,West,1319,28,19,4711
+Clothing,West,3731,31,1,9332
+Books,North,4373,44,8,6035
+Clothing,South,4503,42,8,5062
+Books,North,4814,5,9,710
+Clothing,North,4965,20,1,9869
+Clothing,East,3207,32,1,8003
+Clothing,North,4018,3,17,4566
+Clothing,North,3708,43,6,2890
+Books,South,530,10,17,1706
+Sports Equipment,South,1273,1,9,7442
+Home Appliances,West,3441,32,3,6476
+Sports Equipment,North,3721,30,18,414
+Clothing,West,605,40,2,4446
+Sports Equipment,East,1066,23,14,6060
+Sports Equipment,West,881,40,3,7631
+Clothing,East,3932,39,11,2530
+Sports Equipment,North,1172,2,4,8133
+Clothing,South,4521,15,17,5362
+Home Appliances,South,4239,23,19,7789
+Clothing,East,3885,14,15,2722
+Clothing,West,4090,21,4,2924
+Home Appliances,East,3023,24,2,3868
+Books,North,2919,9,3,4216
+Electronics,West,3502,5,15,5467
+Books,East,2752,15,7,8049
+Books,North,3860,38,10,9865
+Books,East,952,0,4,7056
+Books,East,2782,35,0,8861
+Home Appliances,North,896,35,16,2570
+Home Appliances,West,3794,35,7,6779
+Clothing,East,3564,26,7,3726
+Sports Equipment,East,3733,0,17,8329
+Books,North,1967,1,1,3263
+Sports Equipment,East,2516,38,2,1321
+Electronics,North,2645,24,15,9649
+Electronics,West,1732,48,11,4301
+Home Appliances,West,2705,30,0,3494
+Electronics,South,1827,46,1,3203
+Home Appliances,North,3043,20,14,3015
+Books,South,2637,7,11,2501
+Sports Equipment,North,2117,13,19,9141
+Electronics,West,806,24,9,4301
+Clothing,East,3739,9,1,2789
+Electronics,South,729,28,15,6720
+Electronics,South,4855,9,7,4684
+Home Appliances,West,3462,43,8,9142
+Home Appliances,North,846,2,16,9345
+Home Appliances,North,1069,16,9,5778
+Home Appliances,North,4700,6,9,9102
+Home Appliances,East,3402,36,16,222
+Sports Equipment,North,592,8,11,6544
+Sports Equipment,South,3532,46,6,3192
+Books,East,1900,25,19,2211
+Electronics,South,732,3,16,2869
+Books,North,2720,43,17,6954
+Home Appliances,South,3730,49,19,8822
+Clothing,South,2092,49,4,2839
+Home Appliances,North,2462,18,8,8848
+Home Appliances,North,1758,6,6,1798
+Books,North,3463,40,3,601
+Electronics,South,2989,29,12,348
+Books,North,3181,40,9,4706
+Sports Equipment,South,4119,12,7,6879
+Books,West,2783,25,18,5575
+Books,West,2235,26,1,6551
+Home Appliances,South,4310,24,15,6699
+Clothing,South,3662,18,17,7945
+Electronics,West,749,47,10,4373
+Electronics,West,3524,42,2,6306
+Sports Equipment,North,3914,1,0,3674
+Electronics,West,3676,22,17,8309
+Sports Equipment,South,3948,1,15,8527
+Electronics,South,4145,21,19,9934
+Electronics,East,1826,29,9,3675
+Books,South,3182,41,8,7404
+Books,North,4954,37,5,8161
+Books,West,4063,26,12,9857
+Clothing,West,2973,20,18,8399
+Electronics,West,2397,2,10,8876
+Books,West,1617,9,18,7776
+Clothing,West,1398,19,19,8140
+Sports Equipment,East,3223,30,8,8202
+Books,East,4264,21,19,7251
+Books,North,2185,19,13,2296
+Sports Equipment,North,1051,3,12,3034
+Clothing,South,1296,41,7,7085
+Electronics,North,2249,20,3,3280
+Electronics,East,4706,34,19,6811
+Books,West,2813,37,7,4560
+Clothing,South,3250,31,18,3231
+Sports Equipment,East,4540,27,15,510
+Books,East,4562,43,16,4196
+Electronics,North,958,44,2,8099
+Home Appliances,North,2393,32,6,2560
+Clothing,South,2519,35,13,5375
+Electronics,North,3508,31,1,4758
+Electronics,West,3161,7,6,2613
+Sports Equipment,North,4271,30,17,7380
+Electronics,South,3311,22,15,4107
+Home Appliances,North,970,42,15,8050
+Books,North,3394,1,4,1748
+Electronics,North,1091,11,7,6864
+Books,West,1137,31,13,3295
+Sports Equipment,East,1908,22,1,9686
+Home Appliances,West,660,48,0,1908
+Clothing,East,3860,39,10,7702
+Home Appliances,East,4417,5,15,796
+Books,East,1564,7,4,1376
+Clothing,South,3552,49,7,3763
+Sports Equipment,South,4977,17,7,6168
+Home Appliances,North,605,40,1,5313
+Clothing,West,1315,5,13,7373
+Home Appliances,East,2370,42,7,9576
+Home Appliances,South,3862,23,11,9823
+Sports Equipment,West,3167,7,5,2175
+Sports Equipment,North,1371,6,12,6996
+Electronics,North,1858,46,16,4380
+Electronics,South,4217,4,12,8759
+Home Appliances,North,1345,41,17,7392
+Sports Equipment,East,2737,11,19,4171
+Home Appliances,East,1170,23,8,1700
+Clothing,North,3489,20,0,8589
+Electronics,East,3350,22,12,9484
+Electronics,North,1646,11,12,6726
+Clothing,South,4768,15,9,9621
+Electronics,South,3076,40,9,2651
+Home Appliances,East,3901,20,0,7484
+Books,East,1853,3,0,2219
+Electronics,North,4760,35,14,2322
+Sports Equipment,North,2665,42,10,556
+Books,East,3149,12,18,4309
+Clothing,East,4338,33,18,2619
+Clothing,West,614,15,6,3531
+Home Appliances,South,2584,37,2,4637
+Books,South,1128,47,13,6086
+Electronics,North,2723,16,1,6239
+Home Appliances,East,1006,13,11,6392
+Home Appliances,South,3961,31,14,2815
+Books,South,2679,3,4,5487
+Electronics,North,675,8,12,8502
+Books,North,4776,40,7,917
+Clothing,South,4107,38,8,2572
+Electronics,West,2282,37,12,6339
+Clothing,East,2418,36,15,8265
+Books,North,4494,27,16,4921
+Clothing,West,2536,5,16,7607
+Sports Equipment,West,2795,23,0,6912
+Electronics,South,3198,15,10,1750
+Electronics,East,4072,16,4,5901
+Home Appliances,South,4426,11,6,8682
+Electronics,South,983,11,4,2195
+Clothing,North,3917,40,12,7683
+Electronics,East,1551,35,9,1144
+Sports Equipment,North,3665,26,19,1916
+Clothing,North,4593,23,1,3496
+Home Appliances,East,3002,42,7,6976
+Sports Equipment,North,1385,29,13,8047
+Sports Equipment,South,2361,36,17,2251
+Home Appliances,North,806,2,5,6690
+Sports Equipment,East,1202,6,5,2878
+Home Appliances,West,2226,22,4,2657
+Home Appliances,South,1469,41,19,9104
+Sports Equipment,North,3894,4,18,6829
+Electronics,North,3619,5,4,1093
+Books,South,3627,33,7,8288
+Electronics,South,1598,26,12,748
+Books,West,4659,6,9,9114
+Clothing,North,1954,43,14,2002
+Home Appliances,West,3972,5,19,341
+Books,East,2159,18,11,3691
+Home Appliances,East,2437,4,17,7324
+Sports Equipment,East,1358,26,11,4627
+Home Appliances,East,2876,48,5,6966
+Clothing,West,1632,4,5,8963
+Home Appliances,South,1084,15,6,1077
+Clothing,West,4753,13,13,7618
+Home Appliances,South,524,38,10,9925
+Books,West,2278,10,19,3640
+Clothing,South,2433,1,9,1804
+Electronics,North,2345,13,13,8487
+Books,North,3022,32,6,8327
+Clothing,South,2133,2,14,5550
+Home Appliances,West,2475,6,3,1875
+Clothing,West,892,12,10,9296
+Electronics,East,2231,37,2,1831
+Clothing,East,2632,25,5,7818
+Electronics,East,4476,21,14,8963
+Books,West,4854,26,18,6573
+Sports Equipment,South,4171,13,10,137
+Home Appliances,West,1881,21,14,9598
+Books,East,3664,37,6,2878
+Books,South,3499,43,2,5980
+Clothing,South,2160,40,10,928
+Books,West,2376,11,2,1443
+Clothing,South,1012,44,8,4339
+Books,South,4585,28,16,7322
+Home Appliances,North,2364,48,10,1841
+Sports Equipment,South,4450,4,3,8593
+Sports Equipment,East,2570,20,11,6836
+Electronics,East,2669,29,14,7371
+Home Appliances,South,4422,1,13,4515
+Books,West,4319,44,11,446
+Electronics,North,4275,15,1,8651
+Books,West,4586,16,10,7202
+Clothing,North,2023,45,12,6163
+Electronics,South,1547,35,9,8656
+Books,West,2384,16,14,6490
+Books,East,2260,20,11,2844
+Clothing,South,2737,0,1,6995
+Home Appliances,West,1323,29,16,7399
+Home Appliances,North,4859,22,17,8953
+Clothing,North,3860,11,1,3555
+Clothing,West,1105,29,5,6337
+Electronics,North,1616,14,6,1948
+Sports Equipment,North,3569,43,7,6773
+Books,East,2035,45,4,7019
+Electronics,West,683,47,16,9805
+Books,East,2079,33,14,3562
+Electronics,North,4925,36,3,5647
+Electronics,West,3182,3,10,7025
+Home Appliances,South,1493,15,11,5004
+Books,West,2462,35,6,3776
+Electronics,West,2850,21,3,1151
+Books,West,3894,23,14,8594
+Books,East,1767,23,7,3313
+Sports Equipment,East,3043,28,4,4780
+Clothing,East,2833,48,0,6366
+Electronics,East,3262,39,13,7596
+Books,West,2959,37,7,5812
+Home Appliances,East,4198,12,6,5920
+Electronics,East,1858,0,8,6005
+Books,West,1784,32,11,6439
+Books,West,2816,1,11,3701
+Clothing,South,4166,18,10,5173
+Electronics,South,1401,27,3,8169
+Clothing,South,2288,44,10,304
+Books,North,4960,19,13,4577
+Electronics,East,4563,36,8,7554
+Electronics,East,4500,31,7,665
+Electronics,South,3932,31,1,9573
+Clothing,West,1306,39,18,8700
+Electronics,East,4189,8,1,7537
+Home Appliances,West,3632,38,0,225
+Books,West,2937,22,12,3893
+Books,North,1647,13,19,3196
+Sports Equipment,North,4706,8,13,6542
+Clothing,South,4149,8,9,3077
+Clothing,East,1442,13,8,1261
+Sports Equipment,East,2725,26,10,2799
+Home Appliances,South,1493,31,1,5622
+Electronics,East,3895,3,7,4438
+Electronics,South,4241,32,18,7922
+Books,North,2059,17,6,2706
+Home Appliances,North,4200,24,18,7076
+Sports Equipment,South,2251,5,16,5894
+Home Appliances,West,3434,32,0,2424
+Clothing,North,2473,21,16,2586
+Sports Equipment,North,2798,2,0,5935
+Clothing,West,4596,27,7,2051
+Clothing,North,4644,12,4,5684
+Books,South,937,27,19,1838
+Sports Equipment,West,2912,8,7,6281
+Sports Equipment,West,1161,7,3,9253
+Books,West,4594,9,7,8091
+Books,North,4141,8,9,3101
+Clothing,West,4631,24,8,1986
+Books,West,2458,31,7,3371
+Home Appliances,North,3791,28,9,8040
+Electronics,West,4498,43,10,4552
+Electronics,North,4743,40,17,3156
+Home Appliances,East,3752,10,2,4456
+Books,West,4782,33,14,8889
+Sports Equipment,South,1374,17,10,5378
+Clothing,North,3096,17,12,7898
+Electronics,South,4755,43,16,9142
+Electronics,North,4237,47,2,2333
+Home Appliances,East,606,46,18,6092
+Electronics,West,2807,41,11,6049
+Clothing,East,3055,20,19,8067
+Home Appliances,East,1876,22,19,6161
+Clothing,South,4311,4,13,467
+Home Appliances,North,2771,15,4,6524
+Home Appliances,South,1555,2,5,8882
+Home Appliances,North,1281,37,2,6883
+Sports Equipment,West,659,25,5,1211
+Sports Equipment,East,904,39,8,4395
+Sports Equipment,North,2309,19,12,3295
+Electronics,North,508,14,12,3935
+Home Appliances,North,4119,13,2,9746
+Books,South,1817,13,7,4701
+Home Appliances,East,936,32,19,4888
+Books,South,4760,28,0,3558
+Books,West,1481,29,12,1831
+Home Appliances,West,823,14,8,964
+Sports Equipment,North,3616,38,15,9128
+Home Appliances,North,3490,40,6,3954
+Home Appliances,North,4579,15,19,3051
+Electronics,East,2826,43,19,6668
+Clothing,North,2861,12,18,2088
+Electronics,East,4858,22,17,3988
+Electronics,West,4693,21,4,9397
+Home Appliances,West,826,45,6,7040
+Home Appliances,West,533,49,19,5601
+Sports Equipment,East,4694,14,17,4418
+Books,West,3691,15,5,1295
+Books,West,4987,36,16,9473
+Clothing,South,2334,12,4,9124
+Clothing,East,1851,44,15,6665
+Electronics,East,1463,41,9,2771
+Home Appliances,West,3979,22,13,2207
+Home Appliances,East,3926,2,1,2090
+Books,West,3269,5,7,6603
+Books,South,3774,30,4,1429
+Books,North,2664,32,1,2550
+Electronics,South,2071,30,12,7885
+Home Appliances,East,4925,27,4,8761
+Clothing,South,3208,26,12,5777
+Electronics,North,1196,3,17,6467
+Books,West,2308,32,19,1197
+Books,North,4660,35,17,250
+Clothing,East,692,31,1,4212
+Home Appliances,South,1193,35,16,6252
+Home Appliances,West,2977,10,6,5825
+Home Appliances,North,4961,8,0,2861
+Books,South,713,23,0,6946
+Clothing,West,1708,22,15,4391
+Electronics,South,1322,36,4,2257
+Sports Equipment,West,4207,39,9,5827
+Books,East,967,39,1,920
+Clothing,West,1603,10,8,9813
+Home Appliances,West,1736,12,15,9187
+Books,South,3266,37,1,9142
+Sports Equipment,East,2566,43,13,1623
+Electronics,East,1525,49,0,9772
+Clothing,East,2298,8,2,3402
+Sports Equipment,West,3668,33,11,7170
+Clothing,North,2224,40,8,727
+Home Appliances,North,2757,7,17,7948
+Sports Equipment,South,1151,8,12,7994
+Clothing,East,2277,34,11,1647
+Books,South,4373,12,8,1363
+Electronics,East,4350,32,16,4182
+Sports Equipment,West,4465,46,0,5190
+Books,North,4211,36,10,4571
+Electronics,East,1382,10,3,9826
+Sports Equipment,West,2520,43,8,1885
+Sports Equipment,South,1543,9,7,9655
+Home Appliances,South,1527,41,8,4907
+Home Appliances,East,4029,29,11,759
+Sports Equipment,West,2288,36,2,7416
+Sports Equipment,West,2425,31,10,9035
+Clothing,West,2791,48,17,8821
+Clothing,West,2460,41,1,3355
+Home Appliances,North,914,29,2,6970
+Books,North,1031,28,9,2629
+Electronics,South,2265,32,18,4739
+Home Appliances,West,4366,12,2,1041
+Books,West,3872,28,8,7660
+Clothing,South,4881,49,0,1008
+Electronics,East,1275,44,10,2146
+Home Appliances,East,1361,32,3,6316
+Home Appliances,North,2449,28,10,1712
+Clothing,North,1553,14,11,4836
+Books,South,527,42,1,4745
+Clothing,West,2373,18,3,4962
+Books,East,4258,44,1,7822
+Clothing,North,613,29,13,2067
+Books,East,4007,16,16,2753
+Sports Equipment,West,2113,22,4,6719
+Books,North,1366,36,9,4724
+Sports Equipment,North,3792,37,11,8337
+Books,South,4895,14,18,3556
+Books,East,3425,6,8,8029
+Electronics,West,3463,37,6,737
+Electronics,East,3450,29,3,6527
+Sports Equipment,West,2251,40,9,8499
+Home Appliances,East,3697,8,17,712
+Clothing,South,2121,47,11,7008
+Sports Equipment,South,2232,25,17,8691
+Electronics,North,1474,21,14,277
+Electronics,West,4679,35,14,6536
+Books,North,2226,2,0,1724
+Books,South,2682,44,12,7962
+Clothing,North,4524,6,16,3818
+Books,South,776,8,3,5162
+Home Appliances,East,4319,23,10,6302
+Clothing,East,1065,38,5,3050
+Electronics,South,2957,3,19,7397
+Sports Equipment,North,1134,6,14,1863
+Sports Equipment,West,1750,4,8,1257
+Home Appliances,East,3969,9,8,4555
+Books,East,1107,2,18,9464
+Sports Equipment,East,2107,38,7,4546
+Electronics,South,1128,21,6,7669
+Books,West,4799,48,4,5043
+Books,North,4393,8,13,6514
+Sports Equipment,West,2545,33,1,6255
+Books,South,4197,22,16,3132
+Home Appliances,North,1304,49,10,6192
+Books,South,3459,49,10,7846
+Electronics,East,948,37,4,7689
+Home Appliances,South,3142,7,3,7058
+Home Appliances,East,2672,20,11,2900
+Sports Equipment,West,1070,42,15,1335
+Home Appliances,South,2977,2,18,951
+Clothing,West,521,18,12,3803
+Home Appliances,North,4359,24,1,5238
+Clothing,South,2811,34,2,4624
+Books,East,3000,44,4,8181
+Home Appliances,North,4545,41,9,8806
+Sports Equipment,East,3441,43,8,2843
+Home Appliances,East,725,15,4,9692
+Home Appliances,North,1137,49,7,7715
+Home Appliances,North,664,27,1,6194
+Home Appliances,North,1290,39,15,9770
+Clothing,East,2804,40,10,2252
+Books,North,2439,5,3,850
+Home Appliances,South,1305,40,0,7546
+Clothing,South,1900,47,11,8886
+Books,North,2568,23,8,7526
+Sports Equipment,East,1122,16,6,4754
+Home Appliances,South,2614,14,0,6974
+Clothing,West,739,12,3,7079
+Electronics,South,3731,9,4,167
+Home Appliances,North,2561,26,8,286
+Clothing,East,4631,25,3,8307
+Books,East,1644,27,4,7499
+Home Appliances,South,4570,24,15,9174
+Clothing,North,974,25,15,3862
+Electronics,West,1365,11,7,8951
+Clothing,South,4923,3,6,5549
+Sports Equipment,East,4822,26,9,296
+Books,North,1651,2,5,7278
+Sports Equipment,North,3782,38,16,934
+Home Appliances,East,3727,30,7,1016
+Clothing,East,2307,0,11,8543
+Electronics,West,2514,29,3,5253
+Books,East,2598,48,18,259
+Electronics,South,524,42,7,5218
+Electronics,West,3073,1,12,9945
+Sports Equipment,West,3831,30,6,3514
+Books,East,2806,10,8,5757
+Home Appliances,North,999,37,6,6579
+Home Appliances,South,4539,7,9,9087
+Clothing,North,1195,14,17,3126
+Home Appliances,South,2069,39,0,3668
+Electronics,East,2731,37,6,9059
+Clothing,South,3533,21,13,9385
+Sports Equipment,East,2942,19,4,3436
+Books,East,3019,46,14,5665
+Books,West,587,25,13,5532
+Home Appliances,North,681,35,6,839
+Sports Equipment,South,943,15,14,2387
+Home Appliances,South,4393,1,19,9372
+Books,East,1214,7,2,1776
+Books,South,2419,11,15,2939
+Books,East,4761,17,12,6472
+Electronics,South,2756,39,6,2920
+Sports Equipment,West,1792,21,8,9829
+Sports Equipment,East,1171,47,5,7463
+Clothing,North,3269,47,1,9688
+Sports Equipment,South,1654,48,16,6832
+Sports Equipment,North,4082,39,15,6352
+Clothing,East,3931,19,4,6786
+Home Appliances,East,3323,9,15,7329
+Clothing,West,4520,39,1,2224
+Home Appliances,East,2244,31,15,4477
+Home Appliances,South,1682,33,16,3613
+Electronics,South,1573,17,12,8397
+Sports Equipment,South,1192,17,7,1220
+Clothing,South,2307,33,11,6616
+Home Appliances,North,1501,32,3,4229
+Clothing,East,2641,11,5,3367
+Clothing,South,1291,13,9,2077
+Home Appliances,North,4550,46,16,9295
+Books,South,1464,18,19,2645
+Sports Equipment,South,3626,5,12,6735
+Clothing,West,4991,3,13,720
+Sports Equipment,South,3437,27,8,6026
+Books,West,2814,7,11,7133
+Home Appliances,South,3673,29,13,8621
+Books,West,1324,43,9,639
+Books,East,2582,27,14,9710
+Clothing,South,898,25,2,9193
+Home Appliances,North,1725,29,11,1261
+Electronics,South,1672,18,9,6105
+Home Appliances,East,3683,49,8,4290
+Sports Equipment,South,1465,47,11,3202
+Electronics,West,1399,48,0,1896
+Clothing,South,4038,30,0,2828
+Home Appliances,East,630,4,3,9316
+Books,East,2149,42,13,1157
+Sports Equipment,East,3916,41,13,3108
+Home Appliances,West,925,24,16,4633
+Home Appliances,West,4724,45,12,833
+Home Appliances,East,2999,27,7,2955
+Clothing,North,4195,8,18,6111
+Books,East,3319,18,10,9728
+Clothing,West,2583,12,0,6191
+Sports Equipment,North,1424,20,5,4123
+Books,West,2525,46,16,1547
+Books,West,1685,31,1,8885
+Home Appliances,North,862,4,2,2372
+Clothing,East,873,12,15,8117
+Electronics,South,1624,9,3,6884
+Home Appliances,North,4771,48,2,3165
+Home Appliances,North,4397,41,0,9786
+Clothing,South,3612,12,10,2855
+Books,East,2707,40,5,1680
+Clothing,North,3994,15,1,1024
+Electronics,South,4019,25,15,8994
+Electronics,East,1220,49,7,9569
+Home Appliances,South,2219,49,5,2420
+Electronics,West,1069,22,5,1102
+Books,South,2130,44,3,9547
+Electronics,East,1823,48,3,5788
+Electronics,South,1451,7,2,2029
+Home Appliances,East,3614,2,15,760
+Books,West,4822,3,6,8929
+Home Appliances,East,2932,21,13,2405
+Sports Equipment,East,3620,19,19,7770
+Clothing,East,3281,36,9,3837
+Books,South,3096,5,2,6696
+Sports Equipment,North,2870,49,12,5566
+Electronics,West,3527,19,18,4436
+Home Appliances,West,2113,34,5,7746
+Home Appliances,West,2774,19,7,4124
+Sports Equipment,West,4686,39,16,3835
+Home Appliances,East,2298,49,9,5407
+Electronics,West,2919,20,5,8105
+Clothing,East,1079,49,15,6263
+Home Appliances,East,801,10,2,1333
+Home Appliances,South,4797,34,1,4126
+Sports Equipment,East,2384,22,7,8089
+Home Appliances,East,2799,29,13,4065
+Books,North,4992,14,17,1956
+Books,West,2126,7,8,4035
+Sports Equipment,South,4173,22,8,8264
+Home Appliances,South,3081,39,16,6791
+Clothing,South,1857,37,9,1127
+Sports Equipment,East,3404,35,18,6054
+Home Appliances,East,3557,10,10,5620
+Books,West,581,3,16,7177
+Clothing,West,2191,38,18,1690
+Books,South,3892,9,0,2438
+Home Appliances,North,4264,8,5,5050
+Sports Equipment,South,612,41,12,2006
+Clothing,West,3323,9,17,6277
+Clothing,East,4011,41,6,3482
+Books,South,3533,39,18,7942
+Clothing,North,2672,31,14,2759
+Home Appliances,South,1879,23,3,7809
+Home Appliances,South,1646,11,5,2701
+Books,West,4230,5,5,3152
+Electronics,West,1396,26,2,470
+Home Appliances,North,4978,23,1,7698
+Electronics,West,640,8,12,208
+Clothing,South,696,48,18,3032
+Home Appliances,East,2669,21,7,4200
+Sports Equipment,West,990,5,6,4712
+Sports Equipment,North,4012,22,15,227
+Clothing,South,1759,13,4,7189
+Books,North,2594,36,13,8860
+Sports Equipment,East,4370,6,19,9072
+Books,East,3799,28,13,3544
+Sports Equipment,East,4323,8,11,2558
+Sports Equipment,South,2693,13,11,7742
+Clothing,North,3653,22,3,2765
+Home Appliances,South,788,2,5,8470
+Sports Equipment,South,4691,25,7,9119
+Electronics,North,2353,16,12,4630
+Books,East,1125,18,18,7039
+Clothing,West,4874,2,9,3069
+Sports Equipment,South,1219,21,19,7444
+Home Appliances,West,3648,46,3,6362
+Home Appliances,North,4292,4,14,3126
+Books,West,2750,5,3,8660
+Sports Equipment,West,4825,25,9,6291
+Home Appliances,East,1517,15,1,876
+Home Appliances,North,4942,31,1,1295
+Sports Equipment,East,4162,2,5,658
+Sports Equipment,East,3279,18,14,9517
+Home Appliances,North,2581,0,12,5572
+Sports Equipment,North,4623,49,12,1540
+Books,North,3094,2,8,8710
+Electronics,East,2493,28,18,926
+Sports Equipment,South,2384,3,18,1610
+Books,North,3727,40,9,9034
+Home Appliances,South,4111,44,15,6818
+Electronics,West,1274,43,5,9405
+Electronics,East,2295,15,12,7145
+Books,South,1193,15,8,5330
+Home Appliances,East,1679,2,2,2919
+Books,East,775,14,10,3608
+Home Appliances,North,3153,49,11,4526
+Home Appliances,South,4622,43,6,5964
+Sports Equipment,West,4644,26,5,7389
+Sports Equipment,East,4330,13,4,5462
+Electronics,North,2041,30,1,3649
+Clothing,North,1176,17,1,9292
+Home Appliances,East,3770,14,16,6699
+Electronics,South,3199,6,18,878
+Electronics,West,2147,24,0,6525
+Clothing,East,3828,41,19,6249
+Sports Equipment,South,1671,34,0,6634
+Electronics,North,3038,47,14,5487
+Home Appliances,South,3812,3,1,2879
+Sports Equipment,North,4151,49,8,8723
+Electronics,South,1760,1,15,686
+Electronics,East,3145,36,17,2990
+Clothing,West,639,9,8,6427
+Sports Equipment,North,2954,43,5,8152
+Clothing,South,3466,13,10,5427
+Clothing,South,3804,38,14,9250
+Sports Equipment,West,4308,39,12,8961
+Sports Equipment,South,4414,24,7,1222
+Sports Equipment,East,954,30,10,1462
+Books,West,4104,28,3,7838
+Sports Equipment,East,4575,30,18,5396
+Books,North,791,12,17,7208
+Books,South,4745,38,5,2099
+Home Appliances,South,1285,5,18,1414
+Books,South,2053,36,0,1406
+Electronics,East,4174,38,11,1530
+Clothing,North,3323,46,2,715
+Home Appliances,East,1583,6,7,9546
+Books,West,3005,49,16,2697
+Sports Equipment,East,4259,1,1,277
+Electronics,East,2071,45,16,9752
+Clothing,North,2588,3,14,8275
+Home Appliances,West,3380,47,6,520
+Clothing,East,3616,22,15,7050
+Sports Equipment,South,1374,5,18,2377
+Books,East,4337,30,10,2814
+Sports Equipment,East,1388,43,3,9142
+Home Appliances,North,3265,8,3,5199
+Clothing,West,4428,21,18,1260
+Home Appliances,West,1336,26,9,9332
+Home Appliances,South,1486,44,18,4147
+Books,East,3277,4,14,557
+Sports Equipment,South,2035,33,19,3730
+Sports Equipment,West,3757,20,13,1197
+Clothing,South,3517,26,7,7290
+Home Appliances,South,2268,30,14,1595
+Sports Equipment,East,2432,21,16,4215
+Home Appliances,East,1554,39,16,9232
+Home Appliances,North,1304,44,6,3778
+Books,South,3122,22,18,619
+Clothing,North,1481,44,18,7361
+Home Appliances,East,4805,48,13,981
+Books,South,4950,35,14,2115
+Home Appliances,South,806,26,11,1810
+Sports Equipment,South,4747,8,10,3092
+Clothing,North,4222,32,6,7391
+Books,West,1812,27,7,554
+Home Appliances,North,2289,25,7,8060
+Sports Equipment,North,3660,45,16,3860
+Clothing,North,2663,45,13,548
+Home Appliances,East,2660,19,18,6223
+Electronics,East,741,13,18,3075
+Electronics,West,4197,2,14,8303
+Books,East,4165,20,7,6345
+Clothing,South,2084,46,17,7525
+Clothing,East,2661,29,4,7706
+Sports Equipment,West,4098,8,17,219
+Books,South,702,0,5,6865
+Clothing,South,3798,40,4,552
+Electronics,South,4972,16,18,1436
+Electronics,North,4390,34,8,6100
+Home Appliances,North,3879,7,2,4468
+Books,North,2767,3,2,6641
+Sports Equipment,West,4701,6,16,7306
+Clothing,North,502,49,9,2047
+Clothing,South,3210,42,9,6955
+Sports Equipment,West,3405,42,14,8214
+Electronics,East,2382,44,14,7019
+Sports Equipment,South,1429,0,15,8601
+Sports Equipment,East,2721,30,2,6161
+Electronics,North,1286,39,10,9744
+Electronics,East,4733,47,3,8070
+Sports Equipment,East,4731,32,17,7447
+Books,West,4172,5,3,5888
+Books,West,3740,2,17,2018
+Home Appliances,East,4121,30,18,9176
+Home Appliances,South,1582,42,19,8633
+Clothing,West,1713,3,5,202
+Books,West,4104,16,9,5754
+Sports Equipment,North,4137,8,8,4096
+Clothing,North,3873,45,2,3391
+Books,North,4722,38,8,8641
+Clothing,West,2165,10,4,4847
+Sports Equipment,South,3197,15,15,5945
+Clothing,North,3650,28,4,7156
+Clothing,East,3876,16,11,1793
+Sports Equipment,North,4335,22,8,7722
+Electronics,East,4326,34,18,4479
+Electronics,North,1547,15,18,483
+Home Appliances,East,1638,39,1,263
+Home Appliances,East,2411,48,3,1544
+Electronics,East,4886,7,17,5080
+Home Appliances,South,2169,48,1,4871
+Clothing,North,4354,42,5,8348
+Home Appliances,North,3497,20,16,6003
+Electronics,South,2177,3,10,5731
+Clothing,North,596,46,15,5298
+Books,South,3774,14,19,3728
+Books,North,743,11,5,6740
+Home Appliances,South,3586,6,17,9170
+Home Appliances,North,1674,14,7,106
+Electronics,East,3110,44,11,2762
+Clothing,East,2952,36,7,8239
+Clothing,North,3092,31,19,1215
+Books,North,783,20,17,3478
+Electronics,West,1303,17,15,4101
+Books,South,3895,33,0,5287
+Books,North,4614,32,14,5346
+Books,West,3760,37,3,8194
+Home Appliances,East,2712,24,8,6375
+Clothing,South,908,2,18,3397
+Sports Equipment,North,1586,25,14,7215
+Electronics,South,2257,14,5,3385
+Books,South,4527,31,17,9089
+Clothing,West,978,15,12,7759
+Sports Equipment,South,1999,26,8,104
+Sports Equipment,West,2891,42,0,8319
+Electronics,South,4786,27,3,6206
+Books,East,2027,28,3,6491
+Books,West,4913,25,6,9241
+Clothing,North,3288,19,11,3014
+Electronics,West,3736,8,8,9154
+Home Appliances,North,4035,48,11,4126
+Books,West,555,45,0,2708
+Clothing,West,3255,49,5,2200
+Books,South,1560,47,3,4901
+Electronics,East,4184,31,11,7134
+Books,East,2459,43,11,8130
+Sports Equipment,West,1562,47,0,7236
+Sports Equipment,South,4008,1,12,7705
+Books,East,4267,11,7,5230
+Clothing,West,1099,49,4,887
+Sports Equipment,West,1009,15,19,6509
+Books,South,2920,41,9,3041
+Electronics,West,4908,28,13,1196
+Electronics,East,2666,39,4,5773
+Sports Equipment,North,1115,18,1,5319
+Clothing,North,1151,25,15,3653
+Electronics,West,3523,48,8,4777
+Books,East,3900,30,11,8639
+Home Appliances,North,3344,23,9,5139
+Home Appliances,South,1218,9,3,4111
+Books,West,4066,23,1,1291
+Clothing,North,1502,30,11,4139
+Electronics,South,4253,36,18,5321
+Clothing,West,4973,24,4,253
+Books,East,2319,17,17,1479
+Books,West,1074,42,15,3439
+Electronics,West,1346,34,14,4408
+Electronics,East,3040,39,12,4587
+Electronics,West,2306,32,14,7219
+Electronics,South,3645,45,13,7414
+Home Appliances,South,2833,24,13,1976
+Electronics,South,913,10,15,8740
+Electronics,North,2536,35,9,1572
+Clothing,North,952,38,6,4711
+Clothing,West,4495,2,14,1495
+Electronics,West,4823,29,1,1095
+Home Appliances,South,3997,6,5,8225
+Electronics,North,2116,23,7,9539
+Home Appliances,East,632,7,17,1923
+Home Appliances,South,4915,35,19,2865
+Home Appliances,North,4318,7,17,4858
+Electronics,West,2260,42,2,3178
+Sports Equipment,South,3287,10,16,4405
+Clothing,South,3283,41,12,4547
+Sports Equipment,West,1547,43,5,4902
+Home Appliances,South,1097,42,18,4874
+Home Appliances,South,1685,44,10,8680
+Clothing,North,4476,29,12,6753
+Clothing,North,1652,29,16,9687
+Books,South,2461,8,9,2989
+Books,North,4798,14,5,7127
+Books,North,3300,42,9,188
+Clothing,West,3832,22,3,7288
+Books,South,4127,14,1,7559
+Electronics,West,3204,36,0,1311
+Books,North,2248,28,11,7049
+Electronics,East,1585,7,18,5636
+Electronics,South,887,41,10,6144
+Clothing,West,1475,24,2,848
+Clothing,South,4437,31,4,3234
+Clothing,West,3154,28,17,7581
+Sports Equipment,West,3101,40,2,7249
+Home Appliances,South,3746,34,19,524
+Books,South,3593,19,1,2878
+Clothing,East,2621,5,14,6321
+Books,South,2823,19,1,271
+Home Appliances,West,862,13,12,9785
+Books,North,4545,6,19,8449
+Clothing,North,1755,17,0,2346
+Home Appliances,East,1871,5,12,7296
+Sports Equipment,East,2304,4,2,8276
+Sports Equipment,West,3643,9,17,9350
+Sports Equipment,West,1253,22,11,7474
+Sports Equipment,East,849,8,19,9348
+Sports Equipment,East,3048,43,10,6185
+Electronics,East,2495,3,4,5069
+Home Appliances,East,3032,8,16,2503
+Sports Equipment,West,4433,13,18,4609
+Clothing,South,1362,10,2,2558
+Sports Equipment,East,2962,41,15,6190
+Home Appliances,South,1528,27,7,7628
+Home Appliances,South,2326,13,4,1983
+Clothing,West,2108,27,18,4866
+Books,East,4127,33,4,3487
+Books,South,3153,1,9,9096
+Books,East,4465,35,11,4695
+Sports Equipment,South,4163,13,17,9267
+Sports Equipment,West,2691,25,6,7918
+Books,North,1958,19,16,688
+Clothing,North,3451,7,17,6034
+Home Appliances,East,1076,41,6,2010
+Books,East,3575,49,13,5817
+Home Appliances,West,1630,3,14,4730
+Books,West,3701,32,19,9124
+Electronics,South,3102,0,15,2939
+Sports Equipment,North,4229,48,12,3995
+Sports Equipment,South,1004,7,10,7986
+Sports Equipment,East,3952,26,2,1329
+Home Appliances,East,4949,37,11,6215
+Sports Equipment,East,3449,9,8,4592
+Books,South,3507,9,10,2865
+Electronics,North,1040,27,11,5830
+Clothing,East,571,23,15,1775
+Electronics,West,576,19,3,1209
+Electronics,North,2065,28,1,3209
+Books,West,2740,27,13,4529
+Clothing,East,4082,24,5,2026
+Home Appliances,East,3157,5,12,5717
+Clothing,West,2027,3,12,5698
+Clothing,South,2876,42,3,1498
+Electronics,West,1052,47,5,7099
+Sports Equipment,South,2496,1,8,7162
+Books,North,3537,26,4,5415
+Clothing,West,4600,39,3,9212
+Sports Equipment,South,2643,1,2,3953
+Sports Equipment,South,1640,7,5,6546
+Electronics,East,1875,8,17,1764
+Books,North,3156,11,18,3941
+Electronics,North,912,44,9,8420
+Books,East,3710,10,2,7225
+Home Appliances,North,3161,3,12,8967
+Books,West,2351,0,19,6311
+Electronics,South,4129,36,16,4792
+Sports Equipment,North,1890,4,6,192
+Clothing,South,3881,36,14,700
+Clothing,East,2167,13,9,1884
+Books,South,675,46,13,9719
+Clothing,East,3857,26,2,3950
+Home Appliances,South,1452,35,2,808
+Sports Equipment,South,2811,12,18,931
+Sports Equipment,South,4987,35,2,6465
+Electronics,East,4418,7,10,2117
+Books,West,4666,7,11,2326
+Clothing,West,1880,28,12,7179
+Electronics,North,4063,29,12,9103
+Clothing,West,2315,3,6,8681
+Clothing,East,4432,22,1,3944
+Sports Equipment,West,3498,5,7,1330
+Electronics,North,4979,48,15,5607
+Electronics,South,3397,33,17,557
+Clothing,North,4526,48,3,5549
+Clothing,East,1770,27,17,6738
+Electronics,East,1102,42,12,5088
+Electronics,North,4061,33,18,7866
+Home Appliances,South,1017,4,4,1083
+Clothing,East,1079,46,7,1188
+Clothing,East,3158,43,11,2743
+Electronics,West,1124,4,16,6505
+Sports Equipment,West,3348,2,10,8490
+Clothing,North,1156,31,1,9161
+Books,East,3665,14,16,3318
+Books,North,4790,38,12,8324
+Electronics,West,633,40,0,4037
+Clothing,East,3735,48,19,3890
+Home Appliances,West,4975,35,16,6231
+Sports Equipment,West,1672,26,6,549
+Home Appliances,North,1094,41,15,8393
+Electronics,West,1091,20,4,3352
+Sports Equipment,North,2454,25,19,7360
+Clothing,North,4621,24,2,9730
+Electronics,West,4773,27,7,8870
+Sports Equipment,North,4172,9,17,8171
+Electronics,South,1450,33,12,340
+Home Appliances,West,2782,32,12,3406
+Books,East,779,19,18,2798
+Books,West,1091,25,6,7733
+Home Appliances,South,4095,48,13,6296
+Sports Equipment,East,1979,19,19,8356
+Clothing,North,1796,8,3,6242
+Clothing,South,1473,34,2,6354
+Books,South,3832,44,8,6108
+Books,East,2000,4,18,3206
+Home Appliances,East,3287,38,10,5564
+Books,East,3066,17,1,878
+Clothing,West,624,48,6,7941
+Clothing,East,4765,46,3,2602
+Books,West,4283,12,9,2761
+Clothing,North,1441,30,6,8080
+Sports Equipment,West,4634,18,6,9409
+Books,North,4456,42,18,8002
+Clothing,South,1297,25,15,1492
+Clothing,East,3774,25,14,3570
+Books,East,3017,34,0,2160
+Sports Equipment,North,1474,7,15,2532
+Clothing,North,3136,2,1,728
+Books,East,1021,1,5,6452
+Electronics,North,2024,6,3,1161
+Home Appliances,East,3288,33,4,604
+Books,West,2413,44,13,1684
+Clothing,North,986,10,0,1750
+Books,South,2982,12,12,4366
+Clothing,East,4339,7,13,9882
+Electronics,South,1470,24,12,1095
+Sports Equipment,South,1180,10,14,677
+Electronics,North,3196,33,12,7891
+Electronics,West,3701,20,11,5837
+Sports Equipment,East,1717,8,1,4401
+Electronics,South,4751,45,16,3957
+Clothing,East,1847,23,19,3677
+Electronics,South,1066,6,16,7553
+Clothing,West,1563,15,7,9493
+Books,West,1115,20,16,9670
+Home Appliances,East,1609,2,19,5254
+Electronics,South,3579,33,15,2980
+Electronics,West,4470,45,17,3189
+Electronics,West,2104,46,7,3474
+Electronics,East,1306,9,7,4430
+Clothing,East,3865,28,18,9875
+Sports Equipment,West,3788,20,12,6955
+Electronics,West,3551,43,12,8644
+Electronics,West,2912,35,3,1275
+Books,West,1865,13,16,1236
+Books,South,2138,42,16,7549
+Books,South,4586,35,17,5425
+Electronics,South,2246,24,10,9280
+Electronics,East,2259,46,10,2043
+Books,West,2831,12,6,1413
+Home Appliances,East,1741,36,7,1972
+Clothing,North,2281,15,17,2298
+Sports Equipment,East,1399,26,13,828
+Electronics,North,1033,25,2,1858
+Home Appliances,South,2299,28,9,9601
+Electronics,West,2280,33,4,6407
+Home Appliances,South,2862,23,13,9513
+Sports Equipment,West,1475,1,5,440
+Books,West,2995,32,16,6268
+Home Appliances,North,969,29,19,4172
+Books,North,731,24,3,3888
+Books,East,2222,49,5,8736
+Clothing,West,2294,32,1,7062
+Sports Equipment,West,3667,25,9,1930
+Home Appliances,East,560,8,19,2846
+Electronics,South,4129,38,4,2994
+Home Appliances,East,4106,20,12,3341
+Electronics,West,3449,28,0,8316
+Clothing,West,4608,7,3,7520
+Clothing,North,4396,18,5,164
+Home Appliances,South,1196,40,19,992
+Clothing,South,4056,7,12,4118
+Home Appliances,East,2045,8,13,2170
+Electronics,West,833,26,6,4319
+Home Appliances,South,598,9,4,9364
+Electronics,West,4123,26,12,2992
+Electronics,West,3593,0,8,4311
+Home Appliances,South,1538,36,1,2861
+Home Appliances,North,1093,19,6,8709
+Home Appliances,West,2053,40,2,2389
+Clothing,West,4041,8,4,6319
+Books,West,1003,27,10,4093
+Clothing,East,971,27,11,5324
+Home Appliances,West,1232,32,12,1150
+Home Appliances,West,1376,2,12,9510
+Sports Equipment,North,4747,23,1,1293
+Sports Equipment,South,3140,20,9,2086
+Electronics,East,2040,36,8,1762
+Home Appliances,South,1291,19,10,7680
+Books,North,4191,29,18,3585
+Books,West,2545,46,10,363
+Home Appliances,North,3246,15,18,8811
+Clothing,South,2665,13,10,7918
+Clothing,West,4035,14,13,3965
+Clothing,West,2747,13,16,9221
+Electronics,West,1775,11,0,9040
+Sports Equipment,North,2607,4,8,743
+Clothing,North,3445,13,9,963
+Electronics,North,4163,15,2,6499
+Clothing,East,1338,4,15,2885
+Sports Equipment,South,982,44,18,936
+Home Appliances,North,612,40,17,6668
+Home Appliances,South,1898,18,17,9647
+Home Appliances,North,2747,20,8,4084
+Sports Equipment,North,698,20,14,626
+Clothing,West,4143,29,5,9513
+Sports Equipment,West,4089,46,11,7353
+Books,North,3279,7,19,9267
+Sports Equipment,East,4467,27,13,1914
+Sports Equipment,West,2614,27,18,1363
+Books,South,3463,10,1,9790
+Books,North,2058,11,8,9811
+Books,West,4103,6,8,8019
+Clothing,West,2635,3,6,2395
+Books,South,1898,9,6,1580
+Sports Equipment,South,1378,15,2,1687
+Home Appliances,West,1847,32,15,8797
+Electronics,South,2826,18,1,4062
+Sports Equipment,West,3812,42,6,4630
+Clothing,East,3594,1,6,9475
+Sports Equipment,East,1795,2,4,9043
+Sports Equipment,South,2123,2,15,2136
+Electronics,East,4888,32,4,1978
+Clothing,South,3178,6,17,1250
+Electronics,North,2621,29,4,8492
+Books,West,3845,19,16,3137
+Electronics,East,754,2,4,8557
+Home Appliances,South,1305,46,14,9566
+Electronics,North,830,24,17,3623
+Sports Equipment,West,2416,31,13,3662
+Sports Equipment,West,2438,2,12,4713
+Clothing,North,3269,32,17,8401
+Books,East,2508,2,6,3430
+Sports Equipment,North,3574,5,13,9948
+Sports Equipment,East,4862,1,17,4511
+Books,North,2610,3,1,1885
+Electronics,South,2297,35,18,496
+Clothing,East,4616,44,17,529
+Electronics,West,2191,7,3,2177
+Clothing,East,1956,34,5,6030
+Electronics,East,2030,21,19,5349
+Books,East,3204,1,16,7712
+Sports Equipment,East,4277,2,6,4308
+Clothing,North,3117,30,6,2958
+Electronics,West,2211,20,7,3520
+Home Appliances,North,2300,23,7,9728
+Books,North,974,41,0,9811
+Clothing,West,661,12,19,8138
+Sports Equipment,North,2723,24,3,3467
+Clothing,North,1009,10,19,9815
+Clothing,West,665,37,18,8882
+Home Appliances,North,3002,13,15,6527
+Clothing,South,3289,20,4,2904
+Electronics,South,4752,27,19,9047
+Books,West,3304,2,18,3795
+Sports Equipment,West,1597,45,2,7422
+Home Appliances,South,2666,40,4,9307
+Books,South,3102,40,15,5758
+Clothing,South,1330,48,0,9951
+Clothing,South,2774,37,14,4215
+Electronics,East,4886,16,6,9224
+Books,South,688,9,19,2758
+Electronics,East,2148,35,0,3116
+Clothing,South,1346,10,4,2998
+Books,South,2223,24,17,1093
+Sports Equipment,South,744,29,13,6632
+Electronics,East,4191,16,3,1647
+Books,North,729,26,7,7944
+Sports Equipment,East,2642,20,13,1367
+Clothing,South,3268,27,14,9966
+Clothing,East,2065,38,5,8722
+Books,West,4754,15,13,3349
+Electronics,North,1246,23,14,554
+Home Appliances,North,1849,24,19,5513
+Home Appliances,East,1023,15,13,3130
+Clothing,North,1351,3,16,3535
+Home Appliances,South,3722,2,12,7716
+Clothing,South,654,26,12,8447
+Books,South,3531,13,7,3956
+Electronics,South,4229,37,4,5447
+Home Appliances,South,2681,21,14,5632
+Books,East,1245,47,16,4908
+Clothing,East,3516,42,7,5283
+Electronics,North,1079,16,16,1573
+Home Appliances,East,1826,36,16,3838
+Clothing,North,3424,36,9,2202
+Clothing,South,3749,36,17,119
+Books,West,3208,21,15,6245
+Sports Equipment,East,4812,49,6,8071
+Home Appliances,East,1254,34,5,2770
+Sports Equipment,East,4171,30,10,6336
+Electronics,North,1876,8,4,7776
+Books,East,4367,38,14,3388
+Sports Equipment,North,4030,40,13,6597
+Books,South,1821,8,3,4350
+Books,East,1867,47,19,9870
+Sports Equipment,North,1408,44,5,2199
+Electronics,North,2462,15,4,3775
+Sports Equipment,North,2890,35,17,784
+Sports Equipment,East,2387,16,18,7291
+Clothing,West,2251,18,11,8837
+Electronics,North,3069,42,8,9151
+Sports Equipment,West,1693,33,12,6734
+Sports Equipment,South,823,0,8,659
+Home Appliances,North,1355,6,7,9800
+Clothing,East,4207,3,1,1764
+Clothing,West,4737,33,15,7159
+Electronics,West,788,44,16,735
+Home Appliances,West,2732,17,18,4219
+Electronics,North,2363,20,17,1837
+Electronics,South,2581,49,17,5673
+Clothing,North,2863,2,18,3103
+Sports Equipment,East,3516,41,1,8955
+Clothing,West,946,42,6,1338
+Home Appliances,South,1880,39,15,2899
+Clothing,West,3125,21,5,9941
+Clothing,West,1295,35,11,4408
+Books,North,641,7,15,5399
+Home Appliances,West,3688,14,11,9870
+Books,East,2711,6,2,7624
+Home Appliances,West,2110,32,18,5141
+Home Appliances,East,2929,36,11,4460
+Clothing,West,3880,25,8,3939
+Sports Equipment,East,3742,23,1,9583
+Clothing,North,923,37,10,4193
+Home Appliances,North,2971,19,0,4721
+Electronics,West,867,11,18,9919
+Sports Equipment,East,529,5,15,5642
+Clothing,West,681,43,16,9476
+Clothing,West,4659,48,8,4000
+Sports Equipment,North,1007,14,0,1257
+Electronics,East,4170,7,16,7595
+Books,West,2115,0,14,7867
+Sports Equipment,North,3199,44,3,8696
+Electronics,East,3829,24,18,6054
+Home Appliances,West,1380,25,3,6706
+Electronics,West,4849,45,11,6120
+Electronics,West,4314,26,11,4034
+Home Appliances,North,3549,23,4,556
+Home Appliances,North,910,45,5,4445
+Sports Equipment,South,1085,47,0,1982
+Sports Equipment,North,576,43,11,2766
+Books,North,4214,11,15,4946
+Clothing,West,2002,41,14,4133
+Sports Equipment,West,1773,36,12,704
+Home Appliances,North,1567,38,1,7896
+Clothing,North,3660,27,1,5771
+Home Appliances,South,4499,24,11,9060
+Clothing,North,1505,12,1,3302
+Electronics,South,2456,28,0,8533
+Home Appliances,South,3174,7,17,7712
+Books,North,4587,17,2,9095
+Clothing,North,3405,46,7,7782
+Home Appliances,South,2282,31,5,8820
+Clothing,East,2841,1,4,6269
+Home Appliances,North,727,31,12,4802
+Electronics,West,1856,24,14,5389
+Books,North,4134,22,9,587
+Clothing,West,3384,46,3,5229
+Home Appliances,West,3489,29,19,7736
+Electronics,North,4961,47,9,3019
+Clothing,East,2391,42,2,3859
+Electronics,South,4877,18,5,2852
+Electronics,North,2073,31,10,7045
+Electronics,East,3056,33,15,7009
+Home Appliances,North,2077,29,15,4710
+Books,West,928,17,3,2305
+Books,West,3022,21,8,3392
+Electronics,North,2543,1,11,1906
+Electronics,West,999,12,4,7557
+Home Appliances,West,3827,24,5,5999
+Clothing,East,2914,41,3,9152
+Sports Equipment,South,578,12,14,2445
+Clothing,West,2882,17,10,3996
+Electronics,North,4252,41,3,9591
+Electronics,South,2390,3,10,5817
+Books,South,2409,19,9,7192
+Sports Equipment,North,4595,45,10,8620
+Books,North,777,2,8,4079
+Sports Equipment,North,1732,28,2,3355
+Sports Equipment,South,2200,37,11,1629
+Books,South,4390,21,7,4635
+Books,East,922,28,14,3730
+Clothing,South,677,48,3,7029
+Clothing,East,2343,39,2,8784
+Home Appliances,East,2712,10,4,220
+Clothing,West,1890,32,14,6338
+Sports Equipment,North,1638,42,7,146
+Books,East,2000,34,18,4716
+Clothing,North,2367,44,5,1614
+Sports Equipment,East,2644,33,16,877
+Home Appliances,West,567,47,8,7962
+Books,East,4170,1,9,3091
+Electronics,South,3605,42,13,1656
+Electronics,East,2491,13,7,9766
+Electronics,East,869,42,1,314
+Sports Equipment,East,3743,28,6,5125
+Electronics,East,3462,37,4,333
+Books,South,1510,11,7,420
+Sports Equipment,East,4377,37,17,9552
+Clothing,West,4736,29,6,380
+Clothing,North,1539,9,7,8481
+Sports Equipment,West,3496,20,14,2523
+Clothing,West,612,33,5,3565
+Books,East,2808,20,8,3341
+Books,West,4575,26,16,2385
+Books,South,2975,3,12,4425
+Electronics,North,4223,13,11,8706
+Sports Equipment,South,1868,29,4,5716
+Clothing,East,4034,38,4,1201
+Electronics,West,1297,45,17,7901
+Clothing,South,4555,18,15,9664
+Electronics,East,3389,37,0,1883
+Electronics,East,4782,13,3,567
+Books,West,3876,18,9,1861
+Books,West,2916,2,15,3256
+Electronics,West,4578,34,6,5830
+Home Appliances,East,3014,23,13,7485
+Electronics,North,2509,4,17,2625
+Electronics,North,2932,4,16,8341
+Sports Equipment,South,3271,28,4,9599
+Home Appliances,South,1018,41,6,7652
+Home Appliances,South,2944,25,11,4216
+Electronics,South,2372,49,12,2257
+Electronics,East,4607,48,19,6151
+Home Appliances,West,3931,40,4,5791
+Clothing,West,2057,24,10,3989
+Sports Equipment,East,4305,36,2,1253
+Sports Equipment,West,3694,26,17,2585
+Sports Equipment,North,2528,31,7,8556
+Books,West,4907,9,18,7753
+Clothing,North,1620,12,16,518
+Sports Equipment,North,4762,41,10,3109
+Books,South,1090,7,6,1992
+Electronics,South,1689,3,1,2663
+Sports Equipment,East,4006,10,19,8653
+Sports Equipment,West,2602,17,13,2311
+Sports Equipment,East,1230,22,7,7418
+Home Appliances,East,4780,26,16,7161
+Home Appliances,North,4136,11,13,4660
+Sports Equipment,West,3934,21,10,7382
+Clothing,West,1537,10,15,5516
+Books,West,1566,28,11,9423
+Books,South,1479,44,12,4712
+Books,East,4997,8,18,5659
+Electronics,South,4373,22,8,7741
+Home Appliances,South,1492,49,12,5041
+Sports Equipment,South,4454,20,8,9750
+Clothing,North,4136,27,9,6687
+Clothing,North,3789,0,12,3630
+Sports Equipment,North,4453,47,5,2245
+Sports Equipment,West,4289,25,0,7227
+Sports Equipment,North,1371,22,5,3282
+Clothing,North,3203,30,2,1266
+Electronics,North,3492,7,18,8409
+Books,West,3236,15,5,9149
+Home Appliances,East,1180,27,6,1441
+Clothing,North,1384,48,0,7851
+Electronics,East,4980,36,9,9567
+Books,South,624,36,17,7791
+Clothing,South,2279,36,15,8148
+Clothing,West,2704,26,3,4058
+Sports Equipment,North,3078,33,6,6190
+Clothing,South,1536,42,12,3409
+Sports Equipment,North,3639,1,6,9065
+Home Appliances,South,4589,19,8,8645
+Sports Equipment,North,3673,28,11,3545
+Home Appliances,West,4220,6,4,3656
+Books,West,3895,13,16,8861
+Electronics,South,2284,16,11,5041
+Electronics,East,4745,38,1,1855
+Home Appliances,East,1522,7,7,8976
+Clothing,East,1170,23,12,5560
+Electronics,North,4524,12,15,891
+Books,West,3775,8,4,3795
+Books,West,2219,32,2,6624
+Clothing,West,2240,46,19,6455
+Home Appliances,West,4398,17,11,7090
+Home Appliances,East,2859,5,18,4301
+Home Appliances,West,1921,8,11,1122
+Sports Equipment,North,3086,11,18,7420
+Electronics,South,4475,10,3,3295
+Sports Equipment,East,3477,38,13,8663
+Electronics,East,3033,40,8,2143
+Books,South,626,1,3,9727
+Books,West,4444,3,15,5058
+Electronics,South,1978,3,16,8846
+Electronics,North,3932,41,1,1653
+Clothing,West,4712,18,11,7123
+Electronics,West,3516,34,15,198
+Clothing,East,772,37,15,3455
+Clothing,North,1616,36,8,8269
+Sports Equipment,South,2465,6,13,4088
+Home Appliances,East,3776,22,8,4815
+Electronics,South,556,47,9,8740
+Books,South,3434,43,2,3844
+Home Appliances,East,3746,47,7,243
+Electronics,South,2537,29,5,5939
+Books,South,950,16,5,5047
+Home Appliances,East,4193,42,19,3585
+Electronics,East,705,13,14,9291
+Home Appliances,West,1498,41,11,2336
+Sports Equipment,South,2770,30,2,4484
+Home Appliances,South,961,28,10,3615
+Electronics,North,1150,1,7,5759
+Home Appliances,East,520,44,14,9366
+Sports Equipment,East,2751,34,2,699
+Books,East,4239,16,10,4226
+Home Appliances,North,3371,48,19,1948
+Electronics,West,4165,47,6,3356
